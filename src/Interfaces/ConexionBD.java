@@ -90,7 +90,8 @@ public class ConexionBD {
             miCon.close();
         } catch (Exception e) {
             e.printStackTrace();
-           
+        //FRANKLIN RENE CABRERA POMA
+        //INGENIERIA DEL SOFTWARE
         }
     }    
 }
