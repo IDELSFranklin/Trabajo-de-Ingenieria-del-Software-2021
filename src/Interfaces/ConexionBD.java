@@ -92,6 +92,7 @@ public class ConexionBD {
             e.printStackTrace();
         //FRANKLIN RENE CABRERA POMA
         //INGENIERIA DEL SOFTWARE
+        ///TRABAJO 2
         }
     }    
 }
